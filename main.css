@@ -421,7 +421,7 @@ g:has(rect[mask='url(#svg-mask-status-streaming)']) {
 .wrapper__44b0c:has(rect[mask='url(#svg-mask-status-online)'])::after,
 .wrapper__44b0c:has(rect[mask='url(#svg-mask-status-online-mobile)'])::after {
 	background: transparent !important;
-    outline: 4px solid #21e642;
+    outline: 2px solid #21e642;
 }
 
 /* Do not disturb */

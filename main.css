@@ -79,6 +79,70 @@
     font-style: normal;
 }
 
+/* Lexend Font Family */
+@font-face {
+    font-family: "Lexend";
+    src: url("https://github.com/lbxenons/lbxenons.github.io/raw/refs/heads/main/Lexend-Thin.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url("https://github.com/lbxenons/lbxenons.github.io/raw/refs/heads/main/Lexend-ExtraLight.ttf") format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url("https://github.com/lbxenons/lbxenons.github.io/raw/refs/heads/main/Lexend-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url("https://github.com/lbxenons/lbxenons.github.io/raw/refs/heads/main/Lexend-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url("https://github.com/lbxenons/lbxenons.github.io/raw/refs/heads/main/Lexend-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url("https://github.com/lbxenons/lbxenons.github.io/raw/refs/heads/main/Lexend-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url("https://github.com/lbxenons/lbxenons.github.io/raw/refs/heads/main/Lexend-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url("https://github.com/lbxenons/lbxenons.github.io/raw/refs/heads/main/Lexend-ExtraBold.ttf") format("truetype");
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url("https://github.com/lbxenons/lbxenons.github.io/raw/refs/heads/main/Lexend-Black.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+}
+
 @property --rounded-avatars {
     syntax: "true | false";
     initial-value: false;
